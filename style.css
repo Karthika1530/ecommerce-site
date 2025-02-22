@@ -1,0 +1,384 @@
+.logo {
+    height: 50px;
+    width: 140px;
+}
+
+.bg-container {
+    height: 100vh;
+}
+.bg-container1 {
+    background-size: cover;
+    height: 100vh;
+}
+
+.top-heading {
+    font-size: 50px;
+    font-family: "Roboto";
+    font-weight: 900;
+    color: #183b56;
+
+}
+
+.paragraph {
+    font-size: 25px;
+    font-family: "Roboto";
+    color: #616c7c;
+}
+
+.image1 {
+    height: 100px;
+    width: 110px;
+}
+
+.card-container {
+    height: 300px;
+    width: 470px;
+    margin: 10px;
+    text-align: center;
+    background-color: white;
+    border-color: #e5eaf4;
+
+}
+
+.card-heading {
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #183b56;
+
+
+}
+
+.card-paragraph {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #7b8794;
+
+}
+.ecommerce-bg-container {
+    background-color: white;
+}
+
+.ecommerce-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.smartphone-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    border-radius: 16px;
+    height: 420px;
+    width: 460px;
+    background-size: cover;
+    margin: 8px;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: 700;
+    width: 20px;
+    margin-left: 10px;
+}
+
+.paragraph {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 24px;
+    margin-left: 10px;
+}
+
+.button-vd {
+    height: 40px;
+    width: 130px;
+    color: #ff9f00;
+    margin-left: 10px;
+    border-radius: 20px;
+    border-width: 0px;
+    margin-bottom: 5px;
+}
+
+.laptop-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    border-radius: 16px;
+    height: 420px;
+    width: 460px;
+    background-size: cover;
+    margin: 8px;
+}
+
+.offer-link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 800;
+
+
+}
+
+.products-card-modal-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.products-card-modal-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.products-card-modal-list {
+    list-style-type: none;
+    padding-left: 0px;
+
+}
+
+.products-card-modal-list-item {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.products-card-modal-list-item-category {
+    font-weight: bold;
+}
+
+.linear-gradient-background {
+    background-image: linear-gradient(to right, #f49541, #dd5d97, #ad2167);
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+
+}
+
+
+.offer-heading {
+    font-size: 42px;
+    color: #ad2167;
+    font-weight: 500;
+    font-family: "Bree Serif";
+}
+
+.percentage {
+    color: #ffffff;
+    font-style: italic;
+    font-weight: 600;
+    font-family: "Roboto";
+    font-size: 28px;
+}
+
+.description {
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Roboto";
+    font-size: 28px
+}
+
+.sbi-img {
+    height: 120px;
+}
+
+.trending-blog-bg-container {
+    background-color: white;
+}
+
+.EC-trending-blog-heading {
+    font-family: "Roboto";
+    font-size: 55px;
+    font-weight: 700;
+    color: #183b56;
+
+}
+
+.EC-blog-heading2 {
+    font-family: "Roboto";
+    font-size: 33px;
+    font-weight: 600;
+    color: #183b56;
+    text-align: left;
+}
+
+.EC-blog-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+
+}
+
+
+
+.EC-blog-heading {
+    font-size: 20px;
+    color: #959ead;
+    text-align: left;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.EC-blog-description {
+    font-size: 28px;
+    color: #959ead;
+    text-align: left;
+    font-family: "Roboto";
+
+}
+
+.blog-item-link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+
+
+}
+.deals-bg-container {
+    background-color: #f5f7fa;
+}
+
+
+.deals-main-heading {
+    font-family: "Roboto";
+    font-size: 55px;
+    font-weight: 700;
+    color: #183b56;
+
+}
+
+.deals-card-container {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 20px;
+    margin: 10px;
+
+
+}
+
+.deals-sub-heading {
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: 700;
+    color: #183b56;
+
+}
+
+.products-img {
+    height: 150px;
+    width: 180px;
+    border-radius: 20px;
+    margin-left: 15px;
+
+}
+
+.product-description {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    color: #1f2933;
+    margin-left: 35px;
+}
+
+.view-item-link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 20px;
+}
+.bg-container2 {
+    background-color: #f5f7fa;
+}
+
+.contact-us-heading {
+    font-family: "Roboto";
+    font-size: 55px;
+    color: #323f4b;
+    font-weight: 900;
+
+}
+
+.contact-button {
+    width: 180px;
+    height: 55px;
+    color: #ff9f00;
+    background-color: transparent;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 0px;
+    border-color: #ff9f00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.VR-website-footer-section-bg {
+    background-color: #19232d;
+    height: 110vh;
+    background-size: cover;
+
+}
+
+.VR-logo {
+    height: 45px;
+    width: 70px;
+}
+
+.follow-us-icon-container {
+    background-color: #202b36;
+    width: 55px;
+    height: 55px;
+    border-radius: 40px;
+    margin: 10px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 19px;
+    padding-left: 20px;
+}
+
+.follow-us-icon-container2 {
+
+    width: 55px;
+    height: 55px;
+
+
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 19px;
+    padding-left: 20px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.VR-website-heading {
+    color: #5a7184;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+
+.VR-website-contact-us-heading {
+    color: #5a7184;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 700;
+
+}
+
+.icon2 {
+    color: #5a7184;
+    font-size: 24px;
+}
+
+.line-style {
+    color: #5a7184;
+    border-style: solid;
+    border-color: #5a7184;
+    border-width: 2px;
+}
